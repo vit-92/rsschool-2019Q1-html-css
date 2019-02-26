@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Vitaliy Malyarenko
+HTML CSS Basics: https://www.codecademy.com/users/vit-92/achievements
